@@ -1,0 +1,15 @@
+/Users/hans/code/Skole/Værkstedsapp/bin/Debug/net7.0/Værkstedsapp
+/Users/hans/code/Skole/Værkstedsapp/bin/Debug/net7.0/Værkstedsapp.deps.json
+/Users/hans/code/Skole/Værkstedsapp/bin/Debug/net7.0/Værkstedsapp.runtimeconfig.json
+/Users/hans/code/Skole/Værkstedsapp/bin/Debug/net7.0/Værkstedsapp.dll
+/Users/hans/code/Skole/Værkstedsapp/bin/Debug/net7.0/Værkstedsapp.pdb
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.csproj.AssemblyReference.cache
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.AssemblyInfoInputs.cache
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.AssemblyInfo.cs
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.csproj.CoreCompileInputs.cache
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.dll
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/refint/Værkstedsapp.dll
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.pdb
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/Værkstedsapp.genruntimeconfig.cache
+/Users/hans/code/Skole/Værkstedsapp/obj/Debug/net7.0/ref/Værkstedsapp.dll
