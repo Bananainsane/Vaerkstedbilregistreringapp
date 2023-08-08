@@ -1,5 +1,3 @@
 using System;
 
-namespace VærkstedBilRegistreringApp2
-{
-}
+namespace VærkstedBilRegistreringApp2 { }

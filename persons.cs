@@ -1,4 +1,6 @@
+using System.Security.Cryptography.X509Certificates;
 global using VærkstedBilRegistreringApp;
+using TilbageKaldteBiler;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +11,7 @@ namespace VærkstedBilRegistreringApp
 {
     internal class Person
     {
-        public køretøj? MinBil { get; set; }
+        public TilbageKaldteBiler TilbageKaldteBiler { get; set; }
         public int age { get; set; }
         public string firstname { get; set; }
         public string lastname { get; set; }
@@ -20,13 +22,13 @@ namespace VærkstedBilRegistreringApp
             _showname = false;
         }
 
-        public Person(string firstname, string lastname)
+        public Person(string? firstname, string? lastname)
         {
             _showname = true;
             this.firstname = firstname;
             this.lastname = lastname;
-            MinBil = new();
-            MinBil.mærke = "VW";
+            køretøj<Double> MinBil = new("audi", "a6", 134);
+            køretøj<Double> MinCykel = new("VW", "Golf", "150");
         }
 
         public string SayHello()
@@ -35,6 +37,11 @@ namespace VærkstedBilRegistreringApp
                 return $"Hello {firstname} {lastname}!";
             else
                 return "no name given";
+        }
+
+        Public string TjekForTilbageKaldteBiler(TilbageKaldteBiler TilbageKaldteBiler )
+        {
+            return "";
         }
     }
 }
